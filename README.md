@@ -6,7 +6,6 @@
   ![GitHub forks](https://img.shields.io/github/forks/pawantech12/developer-portfolio-using-reactjs?style=social)
 
   <br />
-
   <h2 align="center">Responsive Portfolio Website</h2>
 
   Developer Portfolio is fully responsive Portfolio website made using ReactJS.
