@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const mongoURI = "mongodb+srv://pawan:mongoatlas@cluster0.mizipzz.mongodb.net/portfolio?retryWrites=true&w=majority";
+const mongoURI = "YOUR MONGODB URI STRING";
 const connectToMongo = async () => {
     try {
       mongoose.set("strictQuery", false);

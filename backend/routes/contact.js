@@ -19,8 +19,8 @@ router.post(
         secure: false,
         auth: {
           // TODO: replace `user` and `pass` values from <https://forwardemail.net>
-          user: "codewithpawanofficial@gmail.com",
-          pass: "ghihcljrufojsngj",
+          user: "YOUR EMAIL",
+          pass: "YOUR EMAIL APP PASWORD",
         },
       });
       const sendEmail = () => {
